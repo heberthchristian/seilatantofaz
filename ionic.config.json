@@ -1,0 +1,8 @@
+{
+  "name": "appjuris",
+  "app_id": "cc2c8f60",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
